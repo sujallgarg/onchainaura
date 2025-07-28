@@ -60,7 +60,7 @@ export function Footer() {
           <div className="flex items-center gap-4">
             <div className='flex flex-col justify-center items-center'>
               <a
-                href="https://twitter.com/kunalg_twt"
+                href="https://x.com/sujal_twt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-purple-400 transition-colors"
@@ -69,14 +69,7 @@ export function Footer() {
               </a>
             </div>
             <div className='flex flex-col justify-center items-center'>
-              <a
-                href="https://instagram.com/blockchainworldco"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex flex-col items-center text-gray-400 hover:text-purple-400 transition-colors"
-              >
-                <UserCircleIcon size={20} />
-              </a>
+          
             </div>
           </div>
         </div>
